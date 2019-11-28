@@ -21,7 +21,12 @@ p {
     font-size: 50px;
 }
 
-.gray {
+h4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 21px;
     color: gray;
+}
+
+.copyright {
+    text-align: right;
 }
